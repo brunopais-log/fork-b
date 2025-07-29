@@ -1,6 +1,6 @@
-# A
+# Ficheiro comum A.md
 
-**Ficheiro commum**
+**Ficheiro comum**
 
 Ficheiros existentes neste reositório:
 
